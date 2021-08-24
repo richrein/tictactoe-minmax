@@ -7,6 +7,13 @@ minmax ia tic-tac-toe is written to take advantage
 of the pygame driver provided by project at
 https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/
 
+Instructions for building are there.
+Download the distribution code from https://cdn.cs50.net/ai/2020/x/projects/0/tictactoe.zip and unzip it.
+Once in the directory for the project, run pip3 install -r requirements.txt to install the required Python package (pygame) for this project.
+
+The project runs on python3 (3.7, 3.8, etc)
+You will need to install pygame in brew for mac install.
+
 The Harvard course also include a tight summary of 
 some search algorithms including minmax at
 https://cs50.harvard.edu/ai/2020/notes/0/
